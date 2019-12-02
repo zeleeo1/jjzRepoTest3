@@ -1,0 +1,19 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <artifactId>service-parent</artifactId>
+  <packaging>pom</packaging>
+  <name>Spring boot Web Services</name>
+  
+  <!-- this pom is a pass-thru wrapper pom only, not a parent-pom -->
+  <parent>
+    <groupId>com.zeleeo</groupId>
+    <artifactId>ZeleeoMasterParentPOM</artifactId>
+    <version>1.0</version>
+    <relativePath></relativePath>
+  </parent>
+  <description>Spring boot Web Services</description>
+  <modules>
+    <module>restws1</module>
+    <module>restws2</module>
+  </modules>
+</project>
