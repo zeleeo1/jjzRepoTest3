@@ -1,0 +1,86 @@
+# Directories #
+/build/
+/bin/
+/api/
+target/
+
+# OS Files #
+.DS_Store
+
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.db
+
+######################
+# Windows
+######################
+
+# Windows image file caches
+Thumbs.db
+
+# Folder config file
+Desktop.ini
+
+######################
+# OSX
+######################
+
+.DS_Store
+.svn
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+
+######################
+# Eclipse
+######################
+
+*.pydevproject
+.metadata
+.project
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings
+.settings/
+.settings/**
+.loadpath
+rebel.xml
+C:/
+# External tool builders
+.externalToolBuilders/
+.tern-project
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# CDT-specific
+.cproject
+
+# PDT-specific
+.buildpath
+/cmecfservices/nbactions.xml
+/cmecfservices/src/main/webapp/META-INF/context.xml
+#################
+#IntelliJ
+#################
+**/.idea
+**/*.iml
+**/*.info
+/cmecfservices/tomcat/
+/cmecfservices/nb-configuration.xml
