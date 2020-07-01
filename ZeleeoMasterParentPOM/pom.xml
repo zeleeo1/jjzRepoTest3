@@ -138,7 +138,7 @@
     <jstl.version>1.2</jstl.version>
     <JUnit.version>4.13-beta-3</JUnit.version>
     <log4j.version>1.2.17</log4j.version>
-    <log4j2.version>2.6.1</log4j2.version>
+    <log4j2.version>2.13.3</log4j2.version>
     <maven-compiler-plugin.version>3.8.0</maven-compiler-plugin.version>
     <maven-source-plugin.version>3.0.0</maven-source-plugin.version>
     <maven-war-plugin.version>3.2.3</maven-war-plugin.version>    
