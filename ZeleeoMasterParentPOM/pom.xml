@@ -136,7 +136,7 @@
     <jersey.version>2.28</jersey.version>
     <jsp-api.version>2.3.1</jsp-api.version>
     <jstl.version>1.2</jstl.version>
-    <JUnit.version>4.13-beta-3</JUnit.version>
+    <JUnit.version>4.13.1</JUnit.version>
     <log4j.version>1.2.17</log4j.version>
     <log4j2.version>2.6.1</log4j2.version>
     <maven-compiler-plugin.version>3.8.0</maven-compiler-plugin.version>
