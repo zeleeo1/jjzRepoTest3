@@ -120,7 +120,7 @@
     <fortify.ssc.authToken>b0fff735-a7bb-49f9-a927-d302490c251a</fortify.ssc.authToken>
     <fortify.ssc.url>https://ssc.itso.ao.dcn:8443/ssc/</fortify.ssc.url>
     <gov.pacer.webservicesecurity.version>2.0</gov.pacer.webservicesecurity.version>
-    <guava.version>27.1-jre</guava.version>
+    <guava.version>29.0-jre</guava.version>
     <hibernate.version>4.1.9.Final</hibernate.version>
     <!-- try this one <hibernate.version>5.4.3.Final</hibernate.version> -->
     <java.source.version>11</java.source.version>
