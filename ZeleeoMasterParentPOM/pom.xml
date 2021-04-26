@@ -98,7 +98,7 @@
     <commons-digester3.version>3.2</commons-digester3.version>
     <commons-fileupload.version>1.4</commons-fileupload.version>
     <commons-httpsclient.version>3.1-rc1</commons-httpsclient.version>
-    <commons-io.version>2.6</commons-io.version>
+    <commons-io.version>2.7</commons-io.version>
     <commons-io.version>2.6</commons-io.version>
     <Commons-lang3.version>3.8.1</Commons-lang3.version>
     <commons-text.version>1.6</commons-text.version>
