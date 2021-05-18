@@ -160,7 +160,7 @@
     <Spring.version>5.1.5.RELEASE</Spring.version>    <!--    Latest    is    5.1.7.RELEASE    -->
     <tomcat.version>9.0.16</tomcat.version>
     <wagon-ssh.version>3.3.2</wagon-ssh.version>
-    <xstream.version>1.4.11.1</xstream.version>
+    <xstream.version>1.4.17</xstream.version>
   </properties>
   <issueManagement>
     <system>Jira</system>
